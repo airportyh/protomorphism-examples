@@ -1,0 +1,7 @@
+require('./array')
+require('./generator')
+require('./object')
+require('./regexp')
+require('./string')
+require('./map')
+require('./weak_map')
